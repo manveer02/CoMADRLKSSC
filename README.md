@@ -1,4 +1,4 @@
-Co-MADRL-KSSC Auto-Orchestrator
+**Co-MADRL-KSSC Auto-Orchestrator**
 
 This bundle contains:
 - train_mpe.py : trains our algorithm on PettingZoo MPE
