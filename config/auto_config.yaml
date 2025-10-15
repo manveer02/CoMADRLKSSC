@@ -1,0 +1,18 @@
+episodes: 50
+num_agents: 3
+max_cycles: 25
+ours_out: results/ours_mpe
+baselines:
+  - name: MAPPO
+    repo_path: ''
+    out_csv: results/mappo.csv
+  - name: MADDPG
+    repo_path: ''
+    out_csv: results/maddpg.csv
+  - name: QMIX
+    repo_path: ''
+    out_csv: results/qmix.csv
+env_variants:
+  - simple_spread_v3
+  - simple_tag_v3
+  - simple_push_v3

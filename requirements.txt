@@ -1,0 +1,12 @@
+numpy
+scipy
+torch
+matplotlib
+pandas
+pyyaml
+tqdm
+pettingzoo[mpe]
+gymnasium
+seaborn
+tensorboard
+reportlab
