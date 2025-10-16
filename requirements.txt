@@ -10,3 +10,6 @@ gymnasium
 seaborn
 tensorboard
 reportlab
+pygame 
+imageio[ffmpeg]
+moviepy
