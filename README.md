@@ -1,4 +1,4 @@
-# Co-MADRL-KSSC: Cooperative Multi-Agent Deep Reinforcement Learning with Known State-Space Constraints
+# Co-MADRL-KSSC: Cooperative Multi-Agent Deep Reinforcement Learning with Knowledge Sharing and Safety Constraints
 
 This repository contains the official implementation for the paper "Cooperative Multi-Agent Deep Reinforcement Learning with Known State-Space Constraints (Co-MADRL-KSSC)". Our algorithm introduces a novel, principled mechanism for incorporating safety constraints into multi-agent learning, built within a state-of-the-art framework to ensure high performance and stability.
 
