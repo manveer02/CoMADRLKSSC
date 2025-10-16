@@ -14,7 +14,7 @@ This project uses Python `3.10` or newer. We recommend using a virtual environme
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/Co-MADRL-KSSC.git](https://github.com/your-username/Co-MADRL-KSSC.git)
+    git clone https://github.com/manveer02/CoMADRLKSSC
     cd Co-MADRL-KSSC
     ```
 
